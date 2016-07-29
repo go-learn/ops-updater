@@ -3,9 +3,9 @@ package cron
 import (
 	"encoding/json"
 	"fmt"
-	"gitcafe.com/ops/common/model"
-	"gitcafe.com/ops/common/utils"
-	"gitcafe.com/ops/updater/g"
+	"github.com/go-learn/ops-common/model"
+	"github.com/go-learn/ops-common/utils"
+	"github.com/go-learn/ops-updater/g"
 	"github.com/toolkits/net/httplib"
 	"log"
 	"time"

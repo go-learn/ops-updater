@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"gitcafe.com/ops/updater/cron"
-	"gitcafe.com/ops/updater/g"
-	"gitcafe.com/ops/updater/http"
+	"github.com/go-learn/ops-updater/cron"
+	"github.com/go-learn/ops-updater/g"
+	"github.com/go-learn/ops-updater/http"
 	"github.com/toolkits/sys"
 	"log"
 	"os"
