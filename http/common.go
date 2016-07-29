@@ -1,7 +1,7 @@
 package http
 
 import (
-	"github.com/Cepave/ops-updater/g"
+	"github.com/go-learn/ops-updater/g"
 	"github.com/toolkits/file"
 	"net/http"
 	"strings"

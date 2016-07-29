@@ -3,9 +3,9 @@ package main
 import (
 	"flag"
 	"fmt"
-	"github.com/Cepave/ops-updater/cron"
-	"github.com/Cepave/ops-updater/g"
-	"github.com/Cepave/ops-updater/http"
+	"github.com/go-learn/ops-updater/cron"
+	"github.com/go-learn/ops-updater/g"
+	"github.com/go-learn/ops-updater/http"
 	"github.com/toolkits/sys"
 	"log"
 	"os"

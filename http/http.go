@@ -2,7 +2,7 @@ package http
 
 import (
 	"encoding/json"
-	"github.com/Cepave/ops-updater/g"
+	"github.com/go-learn/ops-updater/g"
 	"github.com/kardianos/osext"
 	"log"
 	"net/http"

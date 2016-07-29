@@ -1,8 +1,8 @@
 package cron
 
 import (
-	"github.com/Cepave/ops-common/model"
-	"github.com/Cepave/ops-updater/g"
+	"github.com/go-learn/ops-common/model"
+	"github.com/go-learn/ops-updater/g"
 	"log"
 )
 
